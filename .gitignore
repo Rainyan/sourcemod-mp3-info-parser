@@ -1,0 +1,7 @@
+*.smx
+*.cmd
+*.sh
+
+**/neotokyo.inc
+
+**/.vs/
